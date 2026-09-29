@@ -1,5 +1,7 @@
 # Implicit price discrimination: the "Netflix index"
 
+*A non-technical version of this project is published in [**Nightingale**](https://nightingaledvs.com/implicit-price-discrimination/)*
+
 ### About
 
 This repo explores the (un)fairness in regional variations of Netflix prices. The main findings can be explored via this [**interactive map**](https://colinvn.github.io/netflix-index/).
