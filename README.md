@@ -1,6 +1,8 @@
-# Implicit price discrimination: the "Netflix index"
+*Note: A non-technical version of this project is published in [**Nightingale**](https://nightingaledvs.com/implicit-price-discrimination/).*
 
-*A non-technical version of this project is published in [**Nightingale**](https://nightingaledvs.com/implicit-price-discrimination/)*
+---
+
+# Implicit price discrimination: the "Netflix index"
 
 ### About
 
